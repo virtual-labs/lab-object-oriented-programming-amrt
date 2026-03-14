@@ -15,70 +15,70 @@
     "name": "Analyze the problem to identify the objects, classes and its attributes",
     "short-name": "objects-classes-attributes",
     "repo": "https://github.com/virtual-labs/exp-objects-classes-attributes-au",
-    "tag": "v1.0.1",
+    "tag": "v1.1.1",
     "deploy": true
   },
   {
     "name": "Design the time sequence model from use case depicting the interaction of the objects",
     "short-name": "sequence-model",
     "repo": "https://github.com/virtual-labs/exp-sequence-model-au",
-    "tag": "v1.0.1",
+    "tag": "v1.1.1",
     "deploy": true
   },
   {
     "name": "Class Diagram using UML",
     "short-name": "uml-class-diagram",
     "repo": "https://github.com/virtual-labs/exp-uml-au",
-    "tag": "v1.0.1",
+    "tag": "v1.1.1",
     "deploy": true
   },
   {
     "name": "Implement concrete class model using C++ / Java",
     "short-name": "concrete-class-model",
     "repo": "https://github.com/virtual-labs/exp-concrete-class-model-au",
-    "tag": "v1.0.1",
+    "tag": "v1.1.1",
     "deploy": true
   },
   {
     "name": "Implement association relationship between classes using C++ / Java",
     "short-name": "association-relationship",
     "repo": "https://github.com/virtual-labs/exp-association-relationship-au",
-    "tag": "v1.0.1",
+    "tag": "v1.1.1",
     "deploy": true
   },
   {
     "name": "Implementing Inheritance Relationship",
     "short-name": "inheritance-relationship",
     "repo": "https://github.com/virtual-labs/exp-inheritance-relationship-au",
-    "tag": "v1.0.1",
+    "tag": "v1.1.1",
     "deploy": true
   },
   {
     "name": "To implement standard patterns of object creation",
     "short-name": "standard-patterns-object-creation",
     "repo": "https://github.com/virtual-labs/exp-standard-patterns-au",
-    "tag": "v1.0.1",
+    "tag": "v1.1.1",
     "deploy": true
   },
   {
     "name": "Structural and Behavioural Patterns",
     "short-name": "structural-behavioral-patterns",
     "repo": "https://github.com/virtual-labs/exp-structural-behavioral-patterns-au",
-    "tag": "v1.0.1",
+    "tag": "v1.1.1",
     "deploy": true
   },
   {
     "name": "Understand subtype polymorphism in C++ / Java",
     "short-name": "subtype-polymorphism",
     "repo": "https://github.com/virtual-labs/exp-subtype-polymorphism-au",
-    "tag": "v1.0.1",
+    "tag": "v1.1.1",
     "deploy": true
   },
   {
     "name": "Exception Handling and Parameterized Polymorphism",
     "short-name": "parameterized-polymorphism",
     "repo": "https://github.com/virtual-labs/exp-parameterized-polymorphism-au",
-    "tag": "v1.0.1",
+    "tag": "v1.1.1",
     "deploy": true
   }
 ],
