@@ -15,7 +15,7 @@
     "name": "Analyze the problem to identify the objects, classes and its attributes",
     "short-name": "objects-classes-attributes",
     "repo": "https://github.com/virtual-labs/exp-objects-classes-attributes-au",
-    "tag": "v1.1.2",
+    "tag": "v1.1.3",
     "deploy": true
   },
   {
